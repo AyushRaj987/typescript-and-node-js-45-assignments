@@ -1,0 +1,18 @@
+{
+  "name": "typescript and node js 45-assignment",
+  "version": "1.0.0",
+  "description": "in this typescript file wo solved all 45-assignmentof govornor sindh",
+  "main": "mein.js",
+  "dependencies": {
+    "ansi-regex": "^4.1.1",
+    "prompt-sync": "^4.2.0",
+    "strip-ansi": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ayush saleem (roll no) 00457313",
+  "license": "ISC"
+}
